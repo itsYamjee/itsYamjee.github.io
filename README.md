@@ -1,117 +1,61 @@
-# Marius Amiel Garcia
+# Marius Amiel Garcia — Portfolio
 
 ## Technical Lead · Software Developer · Automation & Digital Operations
 
-I build software, automate workflows, and turn practical problems into systems people can use.
+I build software, coordinate technical projects, automate workflows, and work across digital operations, SEO, marketing, and business development.
 
-My experience sits at the intersection of **software development, technical leadership, automation, digital operations, SEO, marketing, and business workflows**.
+**Live portfolio:** https://itsYamjee.github.io
 
-### Portfolio
+## Positioning
 
-**Live website:** [itsYamjee.github.io](https://itsYamjee.github.io)
+My portfolio is organized around four strengths:
 
----
+- **Build** — software, web applications, inventory systems, and practical digital products
+- **Lead** — project coordination, sprint planning, requirements analysis, and technical leadership
+- **Automate** — data scraping, lead generation, outreach, and AI-assisted workflows
+- **Grow** — SEO, SEMrush, WordPress, content, social media, newsletters, and digital operations
 
-## What I Do
+## Featured Projects
 
-### Build
-Software and systems designed around real operational needs.
+### Codefolio
+A public GitHub project included as evidence of my software-development work.
 
-- Full-stack web applications
-- Inventory and tracking systems
-- QR-based workflows
-- WordPress websites
-- Mobile application development
-- Self-hosted and homelab projects
-
-### Lead
-I have experience coordinating technical projects and working in Agile environments.
-
-- Technical project leadership
-- Sprint planning
-- Requirements analysis
-- Task breakdown
-- Technical architecture decisions
-- Cross-functional coordination
-- Scrum Master responsibilities in practice
-
-### Automate
-I use scripting, data, AI tools, and workflow design to reduce repetitive work.
-
-- Data scraping
-- Lead generation
-- Prospect research
-- Cold email outreach
-- Instantly
-- AI-assisted workflows
-- Claude for day-to-day automation and productivity
-- Process improvement
-
-### Grow
-My technical background also extends into digital marketing and business development.
-
-- SEO
-- SEMrush
-- Google Analytics
-- Content creation
-- Social media management
-- Blog publishing
-- Email/newsletter campaigns
-- Sales and lead-generation workflows
-
----
-
-## Selected Projects
+Repository: https://github.com/itsYamjee/Codefolio
 
 ### Carbon Footprint Tracker
+Led a cross-functional team through the end-to-end design and deployment of a full-stack web application for Saint Louis University. Responsibilities included sprint planning, technical architecture decisions, and translating project requirements into actionable development tasks.
 
-**Technical Lead · Full-Stack Web Application**
+### Spot Work Platform
+A collaborative marketplace mobile platform connecting businesses with flexible workers for short-term shifts.
 
-Led a cross-functional team through the end-to-end design and deployment of a full-stack carbon-footprint tracking application for Saint Louis University.
+**My role:** co-contributor focused on front-end design and UI/UX work in Figma, including worker and business-facing screens.
 
-My responsibilities included sprint planning, technical architecture decisions, and translating project requirements into actionable development tasks.
-
-[View case study →](projects/carbon-footprint-tracker.html)
+Repository: https://github.com/Lance-Awangan/spot-work-platform
 
 ### Inventory & Tracking Systems
-
-**Freelance Software Developer**
-
-Developed and deployed inventory and tracking systems for the Saint Louis University Bookstore and Electronics Department Laboratory.
-
-[View case study →](projects/inventory-system.html)
-
-### Homelab
-
-**Infrastructure · Self-Hosted Systems · Experimentation**
-
-A personal environment for exploring servers, networking, deployment, automation, and self-hosted services.
-
-[Explore homelab →](projects/homelab.html)
+Solely developed and deployed inventory and tracking systems for the Saint Louis University Bookstore and Electronics Department Laboratory.
 
 ### QR Inventory System
+A QR-based inventory workflow connecting physical assets with digital records for faster identification and tracking.
 
-**Web Application · QR · Inventory**
+### Homelab
+A personal environment for exploring servers, networking, deployment, automation, and self-hosted services.
 
-A QR-based inventory concept connecting physical assets with digital records for faster identification and tracking.
+## Digital Operations & Automation
 
-[View project →](projects/qr-inventory.html)
+My broader experience includes:
 
-### Mobile Application
-
-**Currently in Development**
-
-An ongoing mobile application project taking an idea through architecture, implementation, testing, and iteration.
-
-[View project →](projects/mobile-app.html)
-
----
+- Lead generation and data scraping
+- Prospect research and database preparation
+- Cold email outreach using Instantly
+- Mailchimp newsletter campaigns
+- Social media management and content creation
+- WordPress website creation and blog publishing
+- SEO auditing and site auditing with SEMrush
+- Google Analytics and Yoast SEO
+- Claude and AI-assisted workflows for day-to-day productivity and automation
 
 ## Experience
-
-My professional experience spans technology, project coordination, software development, SEO, marketing, sales, and creative production.
-
-Recent roles include:
 
 - **SEO Specialist** — Jan 2026 to Jul 2026
 - **Marketing Coordinator** — Jan 2026 to Jul 2026
@@ -121,59 +65,49 @@ Recent roles include:
 - **Sales Specialist** — Jan 2023 to Mar 2023
 - **Freelance Video Editor** — Jan 2020 to Present
 
----
-
 ## Education
 
 **Bachelor of Science in Electronics Engineering**  
 Saint Louis University · Aug 2019 — May 2026
 
-Major in Electronics Engineering.
+Thesis: *Carbon-Footprint Tracker for Saint Louis University*
 
-**Thesis:** *Carbon-Footprint Tracker for Saint Louis University*
+## Skills
 
-I also conducted research on the effectiveness of a role-playing video game as a learning tool for Ideal Gas Law concepts.
+**Development:** Python, PHP, Java, C/C++, JavaScript, HTML5/CSS, Bash, WordPress
 
----
+**Project & Technical:** Team leadership, project management, Agile/Scrum workflows, requirements analysis, technical architecture, technical documentation
 
-## Technical & Professional Skills
+**Digital:** SEO, SEMrush, Google Analytics, Yoast SEO, social media marketing, content strategy, newsletters
 
-**Development:** HTML, CSS, JavaScript, PHP, Python, Java, C++, C#, SQL, Dart, React, Node.js
-
-**Infrastructure & Tools:** Git, GitHub, Docker, Linux, WordPress, AWS, MySQL, PostgreSQL, MongoDB
-
-**Project & Business:** Agile, Scrum, project management, requirements analysis, technical documentation, lead generation, sales outreach
-
-**Digital:** SEO, SEMrush, Google Analytics, social media, content creation, email campaigns
-
-**AI & Automation:** Claude, AI-assisted development, workflow automation, data scraping, process optimization
-
----
-
-## Philosophy
-
-I don't start with technology.
-
-I start with the **problem**.
-
-Then I work toward a solution that is practical, maintainable, and useful to the people who need it.
-
----
+**Automation:** Data scraping, lead generation, Instantly, Claude, AI-assisted development, workflow and technical efficiency
 
 ## Contact
 
-If you're looking for someone who can move between **technology, project coordination, automation, and business operations**, I'd be happy to connect.
+- **Email:** mariusamielgarcia@gmail.com
+- **GitHub:** https://github.com/itsYamjee
+- **LinkedIn:** https://www.linkedin.com/in/marius-amiel-garcia-690a94251/
+- **Portfolio:** https://itsYamjee.github.io
 
-- **Portfolio:** [itsYamjee.github.io](https://itsYamjee.github.io)
-- **LinkedIn:** [linkedin.com/in/marius-amiel-garcia-690a94251](https://www.linkedin.com/in/marius-amiel-garcia-690a94251/)
-- **GitHub:** [github.com/itsYamjee](https://github.com/itsYamjee)
+## Repository structure
 
----
+```text
+itsYamjee.github.io/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+│       └── spot-work/
+├── projects/
+│   ├── codefolio.html
+│   ├── spot-work.html
+│   ├── carbon-footprint-tracker.html
+│   ├── inventory-system.html
+│   ├── qr-inventory.html
+│   └── homelab.html
+├── index.html
+├── resume.pdf
+└── README.md
+```
 
-## Repository
-
-This repository contains the source for my personal portfolio website, deployed through GitHub Pages.
-
-The site is built as a lightweight static website using HTML, CSS, and JavaScript.
-
-> Some project details, screenshots, architecture diagrams, repositories, and technical implementation details may be intentionally omitted or simplified to avoid exposing confidential information or credentials.
+> Project details and screenshots should only expose information that is safe to publish. Do not commit passwords, API keys, private customer data, internal network information, or confidential company material.
